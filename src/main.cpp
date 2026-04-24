@@ -43,9 +43,9 @@ void loop()
 
   if (ldrValue < 1000) 
   {
-    lightOn = true;   // dark
+    lightOn = true;
   } else {
-    lightOn = false;  // bright
+    lightOn = false;
   }
 
   
